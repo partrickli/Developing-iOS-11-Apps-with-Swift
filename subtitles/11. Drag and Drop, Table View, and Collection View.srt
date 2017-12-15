@@ -21,58 +21,69 @@ this is fall of 2017 quarter. And today, we have two huge
 5
 00:00:16,450 --> 00:00:19,584
 topics to talk about. The first one is drag and drop,
+主题要讨论。第一个是拖拽，
 
 6
 00:00:19,653 --> 00:00:22,153
 which is a way of sharing information between apps,
+这是一种在应用程序之间共享信息的方式。
 
 7
 00:00:22,222 --> 00:00:24,422
 especially important with iOS 11.
+在iOS 11 中尤其重要。
 
 8
 00:00:24,491 --> 00:00:27,726
 Because on the iPad, there's quite a great multitasking
+应为在 iPad 中，有大量的多任务
 
 9
 00:00:27,794 --> 00:00:30,929
 ability to have two apps on screen at the same time. And
+操作，屏幕上会同时有两个应用程序。 
 
 10
 00:00:30,997 --> 00:00:33,431
 nice, nice to be able to drag and drop between them. And
+这时能在应用程序之间拖拽数据是很棒的操作方式。
 
 11
 00:00:33,500 --> 00:00:37,102
 then we're gonna talk about TableView and CollectionView,
+然后我们要讨论 TableView 和 CollectionView，
 
 12
 00:00:37,170 --> 00:00:40,439
 definitely a big step up in complexity of what I've been
+在我们截至目前为止教授的内容里，在复杂性上要高一大截
 
 13
 00:00:40,507 --> 00:00:44,109
 teaching you so far, but I think you're ready for it. So
+但我相信你们已经准备好了。
 
 14
 00:00:44,178 --> 00:00:47,045
 drag and drop, what is drag and drop about?
+那么什么是拖拽呢？
 
 15
 00:00:47,114 --> 00:00:50,682
 It's very simple, you literally just press and hold,
-
+非常简单，你只需按住不动，
 16
 00:00:50,751 --> 00:00:54,452
 which we call a long press on iOS, on something that could
-
+在iOS中我们称这个动作为长按，按在能够被拖拽的东西上，
 17
 00:00:54,521 --> 00:00:58,257
 be dragged and start moving. And when you do, the operating
-
+并开始移动。但你这样做的时候，
 18
 00:00:58,325 --> 00:01:01,660
 system, iOS, is going to let you drag that thing around.
+
 
 19
 00:01:01,729 --> 00:01:04,496
